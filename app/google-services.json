@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344172659813",
+    "firebase_url": "https://trackapp-1ee1c.firebaseio.com",
+    "project_id": "trackapp-1ee1c",
+    "storage_bucket": "trackapp-1ee1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344172659813:android:5b20c6740684a14b",
+        "android_client_info": {
+          "package_name": "com.app.sarinda.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344172659813-0k2sesse0cci4li7g5898l45jr1o8f38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sarinda.trackme",
+            "certificate_hash": "dde12ebf0e83e2fab7284197197d8b066beff2fe"
+          }
+        },
+        {
+          "client_id": "344172659813-e7nt54gbse8ueh36nhsk0bje7nfcls40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRUps2E_nQKxeAK9TYaXPIeVX6dgjcakU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344172659813-e7nt54gbse8ueh36nhsk0bje7nfcls40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
